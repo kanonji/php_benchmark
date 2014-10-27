@@ -1,0 +1,10 @@
+{
+    "name": "kanonji/php_benchmark",
+    "authors": [
+        {
+            "name": "kanonji",
+            "email": "kanonji@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
