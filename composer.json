@@ -6,5 +6,8 @@
             "email": "kanonji@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "dydro/benchmark": "dev-master"
+    }
 }

@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7e33f92451b5e16ba46a76f9ff7f1c49",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "dydro/benchmark",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Dydro/php-benchmark.git",
+                "reference": "0b963c303837f138f99c5765a93b453ac3ff89d2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Dydro/php-benchmark/zipball/0b963c303837f138f99c5765a93b453ac3ff89d2",
+                "reference": "0b963c303837f138f99c5765a93b453ac3ff89d2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Dydro\\Benchmark\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Dydro LLC.",
+                    "email": "team@dydro.com",
+                    "homepage": "http://dydro.com"
+                },
+                {
+                    "name": "Troy McCabe",
+                    "email": "troy@dydro.com"
+                }
+            ],
+            "description": "A comparison benchmarking utility",
+            "keywords": [
+                "benchmark",
+                "comparison",
+                "testing"
+            ],
+            "time": "2013-07-24 06:00:26"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "dydro/benchmark": 20
+    },
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}
