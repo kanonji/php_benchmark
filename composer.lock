@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e24b31f2d2deb5e049b2a305071ddcb1",
+    "hash": "9e330fe55d3e5e6a790e1b61541aea58",
     "packages": [],
     "packages-dev": [
         {
@@ -101,15 +101,42 @@
                 "testing"
             ],
             "time": "2013-07-24 06:00:26"
+        },
+        {
+            "name": "kanonji/php_reproducible_shuffle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kanonji/php_reproducible_shuffle.git",
+                "reference": "808479373c678b5bb960af512480b92883cb83aa"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.6.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "kanonji\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "kanonji",
+                    "email": "kanonji@users.noreply.github.com"
+                }
+            ],
+            "time": "2015-04-12 22:15:55"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
         "dydro/benchmark": 20,
-        "devster/ubench": 20
+        "devster/ubench": 20,
+        "kanonji/php_reproducible_shuffle": 20
     },
     "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }
