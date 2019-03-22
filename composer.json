@@ -17,5 +17,10 @@
     "devster/ubench": "dev-master",
     "kanonji/php_reproducible_shuffle": "dev-master"
   },
-  "require-dev": {}
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Kanonji\\Benchmark\\": "."
+    }
+  }
 }
