@@ -1,21 +1,21 @@
 {
-    "name": "kanonji/php_benchmark",
-    "authors": [
-        {
-            "name": "kanonji",
-            "email": "kanonji@users.noreply.github.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/kanonji/php_reproducible_shuffle.git"
-        }
-    ],
-    "require": {},
-    "require-dev": {
-        "dydro/benchmark": "dev-master",
-        "devster/ubench": "1.1.*-dev",
-        "kanonji/php_reproducible_shuffle": "dev-master"
+  "name": "kanonji/php_benchmark",
+  "authors": [
+    {
+      "name": "kanonji",
+      "email": "kanonji@users.noreply.github.com"
     }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/kanonji/php_reproducible_shuffle.git"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "dydro/benchmark": "dev-master",
+    "devster/ubench": "1.1.*-dev",
+    "kanonji/php_reproducible_shuffle": "dev-master"
+  }
 }
