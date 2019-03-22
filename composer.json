@@ -12,10 +12,10 @@
       "url": "https://github.com/kanonji/php_reproducible_shuffle.git"
     }
   ],
-  "require": {},
-  "require-dev": {
+  "require": {
     "dydro/benchmark": "dev-master",
-    "devster/ubench": "1.1.*-dev",
+    "devster/ubench": "dev-master",
     "kanonji/php_reproducible_shuffle": "dev-master"
-  }
+  },
+  "require-dev": {}
 }

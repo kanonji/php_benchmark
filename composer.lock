@@ -4,27 +4,29 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d6fc0033a9f66feda6f9d7af2aeb2a9a",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "1ced8545cb754471627808d28e6d00b9",
+    "packages": [
         {
             "name": "devster/ubench",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/devster/ubench.git",
-                "reference": "b0d1f9a4ffad3b43413fdc6013c01e65dde11742"
+                "reference": "255dd8d52f097918c5806f9214a8a1615ee394b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/devster/ubench/zipball/b0d1f9a4ffad3b43413fdc6013c01e65dde11742",
-                "reference": "b0d1f9a4ffad3b43413fdc6013c01e65dde11742",
+                "url": "https://api.github.com/repos/devster/ubench/zipball/255dd8d52f097918c5806f9214a8a1615ee394b5",
+                "reference": "255dd8d52f097918c5806f9214a8a1615ee394b5",
                 "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "*"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.1.x-dev"
+                    "dev-master": "2.0.x-dev"
                 }
             },
             "autoload": {
@@ -39,8 +41,7 @@
             "authors": [
                 {
                     "name": "Jeremy Perret",
-                    "email": "jeremy@devster.org",
-                    "homepage": "https://github.com/devster"
+                    "email": "jeremy@devster.org"
                 }
             ],
             "description": "Micro PHP library for benchmarking",
@@ -51,7 +52,7 @@
                 "library",
                 "micro"
             ],
-            "time": "2013-02-28T08:22:22+00:00"
+            "time": "2017-11-02T16:41:47+00:00"
         },
         {
             "name": "dydro/benchmark",
@@ -134,6 +135,7 @@
             "time": "2015-06-12T20:40:11+00:00"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
