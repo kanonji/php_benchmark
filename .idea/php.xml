@@ -6,6 +6,27 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/dydro/benchmark" />
       <path value="$PROJECT_DIR$/vendor/kanonji/php_reproducible_shuffle" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpbench/dom" />
+      <path value="$PROJECT_DIR$/vendor/phpbench/phpbench" />
+      <path value="$PROJECT_DIR$/vendor/lstrojny/functional-php" />
+      <path value="$PROJECT_DIR$/vendor/phpbench/container" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/path-util" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

@@ -15,7 +15,8 @@
   "require": {
     "dydro/benchmark": "dev-master",
     "devster/ubench": "dev-master",
-    "kanonji/php_reproducible_shuffle": "dev-master"
+    "kanonji/php_reproducible_shuffle": "dev-master",
+    "phpbench/phpbench": "@dev"
   },
   "require-dev": {},
   "autoload": {
